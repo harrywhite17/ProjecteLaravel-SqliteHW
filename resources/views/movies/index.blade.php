@@ -81,7 +81,6 @@
     <footer class="bg-dark text-white text-center py-5">
         <div class="container-fluid">
             <p class="mb-0" style="font-size: 1.2rem;">&copy; {{ date('Y') }} LaravelTinkering. Tots els drets reservats.</p>
-            <a href="#" class="text-info text-decoration-none" style="font-size: 1.1rem;">Política de Privacitat</a> | <a href="#" class="text-info text-decoration-none" style="font-size: 1.1rem;">Termes del Servei</a>
         </div>
     </footer>
 

@@ -56,7 +56,6 @@
     <footer class="bg-dark text-white text-center py-5">
         <div class="container-fluid">
             <p class="mb-0" style="font-size: 1.2rem;">&copy; {{ date('Y') }} LaravelTinkering. All rights reserved.</p>
-            <a href="#" class="text-info text-decoration-none" style="font-size: 1.1rem;">Privacy Policy</a> | <a href="#" class="text-info text-decoration-none" style="font-size: 1.1rem;">Terms of Service</a>
         </div>
     </footer>
 
